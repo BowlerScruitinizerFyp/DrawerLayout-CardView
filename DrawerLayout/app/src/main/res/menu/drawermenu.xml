@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/camera" android:title="Camera" android:icon="@drawable/ic_camera_black_24px" />
+    <item android:id="@+id/gallery" android:title="Gallery" android:icon="@drawable/ic_gallery_black_24px" />
+    <item android:id="@+id/result" android:title="Results" android:icon="@drawable/ic_result_black_24px" />
+    <item android:id="@+id/setting" android:title="Settings" android:icon="@drawable/ic_settings_black_24px" />
+    <item android:id="@+id/logout" android:title="Logout" android:icon="@drawable/ic_logout_black_24px" />
+
+</menu>
